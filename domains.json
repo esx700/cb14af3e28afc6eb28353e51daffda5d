@@ -3,8 +3,9 @@
   "domains": [
     "https://d3pwd137ql21v4.cloudfront.net",
     "https://panel.gem-panel.com",
-    "https://panel-bot.gem-panel.com"
+    "https://panel-bot.gem-panel.com",
+    "https://gem-panel-proxy.bian28964.workers.dev"
   ],
   "healthPath": "/api/v1/health",
-  "updatedAt": "2026-09-20T11:48:50.743Z"
+  "updatedAt": "2026-09-20T11:50:34.551Z"
 }
